@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my best projects are available at [dixitsportfolio.netlify.app](https://dixitsportfolio.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
