@@ -3,7 +3,7 @@
 
 - 🤝 I’m looking for help with **placements.**
 
-- 👨‍💻 All of my best projects are available at [dixitsportfolio.netlify.app](dixitsportfolio.netlify.app)
+- 👨‍💻 All of my best projects are available at (dixitsportfolio.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
